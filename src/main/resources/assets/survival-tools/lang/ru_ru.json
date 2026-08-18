@@ -1,0 +1,17 @@
+{
+	"item.survival-tools.villager_teleporter": "Телепортатор жителей",
+	"item.survival-tools.villager_teleporter.no_villager": "Рядом нет жителя без метки",
+	"item.survival-tools.villager_teleporter.not_marked": "У этого жителя нет метки",
+	"item.survival-tools.villager_teleporter.mark_cleared": "Метка снята, жителя можно телепортировать снова",
+	"item.survival-tools.villager_heart": "Сердце жителя",
+	"item.survival-tools.villager_spawner": "Спавнер жителей",
+	"item.survival-tools.villager_spawner.no_space": "Здесь нет места для жителя",
+	"item.survival-tools.empty_heart": "Пустое сердце",
+	"item.survival-tools.empty_heart.captured": "Моб помещён в сердце",
+	"item.survival-tools.full_heart": "Полное сердце",
+	"item.survival-tools.full_heart.empty": "Это сердце пустое",
+	"item.survival-tools.full_heart.stored": "Полное сердце (%s)",
+	"item.survival-tools.full_heart.release_failed": "Здесь не получается выпустить моба",
+	"message.survival-tools.villager_pinned": "Житель зафиксирован",
+	"message.survival-tools.villager_unpinned": "Житель освобождён"
+}

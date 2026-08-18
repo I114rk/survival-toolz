@@ -1,0 +1,16 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"E": "minecraft:emerald",
+		"H": "survival-tools:villager_heart"
+	},
+	"pattern": [
+		" E ",
+		"EHE",
+		" E "
+	],
+	"result": {
+		"id": "survival-tools:villager_spawner"
+	}
+}

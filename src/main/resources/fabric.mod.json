@@ -1,0 +1,33 @@
+{
+	"schemaVersion": 1,
+	"id": "survival-tools",
+	"version": "${version}",
+	"name": "Survival ToolZ",
+	"description": "Tools for handling mobs in survival: teleport villagers from far away, pin them in place, spawn new ones from a villager heart, and carry any mob inside a heart with everything it owns.",
+	"authors": [
+		"i114rk"
+	],
+	"license": "MIT",
+	"icon": "assets/survival-tools/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.i114rk.survivaltools.SurvivalTools"
+		],
+		"client": [
+			"com.i114rk.survivaltools.client.SurvivalToolsClient"
+		],
+		"jade": [
+			"com.i114rk.survivaltools.compat.jade.SurvivalToolsJadePlugin"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"jade": "*"
+	}
+}

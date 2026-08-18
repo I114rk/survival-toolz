@@ -1,0 +1,17 @@
+{
+	"item.survival-tools.villager_teleporter": "Villager Teleporter",
+	"item.survival-tools.villager_teleporter.no_villager": "No villager without a mark nearby",
+	"item.survival-tools.villager_teleporter.not_marked": "This villager has no mark",
+	"item.survival-tools.villager_teleporter.mark_cleared": "Mark removed, this villager can be teleported again",
+	"item.survival-tools.villager_heart": "Villager Heart",
+	"item.survival-tools.villager_spawner": "Villager Spawner",
+	"item.survival-tools.villager_spawner.no_space": "No room for a villager here",
+	"item.survival-tools.empty_heart": "Empty Heart",
+	"item.survival-tools.empty_heart.captured": "Mob stored in the heart",
+	"item.survival-tools.full_heart": "Full Heart",
+	"item.survival-tools.full_heart.empty": "This heart is empty",
+	"item.survival-tools.full_heart.stored": "Full Heart (%s)",
+	"item.survival-tools.full_heart.release_failed": "The mob could not be released here",
+	"message.survival-tools.villager_pinned": "Villager pinned in place",
+	"message.survival-tools.villager_unpinned": "Villager released"
+}

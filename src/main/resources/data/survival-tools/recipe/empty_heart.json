@@ -1,0 +1,14 @@
+{
+	"type": "minecraft:crafting_shaped",
+	"category": "equipment",
+	"key": {
+		"L": "minecraft:leather"
+	},
+	"pattern": [
+		"LL",
+		"LL"
+	],
+	"result": {
+		"id": "survival-tools:empty_heart"
+	}
+}
